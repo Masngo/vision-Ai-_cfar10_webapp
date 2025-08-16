@@ -46,7 +46,7 @@ http://127.0.0.1:5000/
 •	Custom images: Resize them to 32x32 pixels before uploading or add preprocessing in app.py.
 •	Deployment: Later, you can deploy this app online using Heroku, Render, or PythonAnywhere.
 4. Connect with Me
-For networking and opportunities, feel free to connect with me on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/masango-dewheretsoko-5ba182148)
+For networking and opportunities, feel free to connect with me on LinkedIn: https://www.linkedin.com/in/masango-dewheretsoko-5ba182148
 5. Note for Future Students
 As you embark on your projects, remember that perseverance and curiosity are key. Don't hesitate to explore beyond the basics and seek help when needed. Good luck, and I hope you enjoy the journey into machine learning and web development!
 
